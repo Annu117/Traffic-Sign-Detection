@@ -10,4 +10,3 @@ In this project, we investigated machine learning and deep learning models for
  promising choice for TSD, with further exploration
  possible for other models.
 
-![image](https://github.com/Annu117/Traffic-Sign-Detection/assets/108427028/34f1fcf2-2035-4f51-b087-a2e329f428c0)
