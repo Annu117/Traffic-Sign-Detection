@@ -1,6 +1,6 @@
 # Traffic-Sign-Detection
 
-In this project, we investigated various machine learning and deep learning models for traffic sign detection (TSD) to enhance road safety. Using the German Traffic Sign Recognition Benchmark (GTSRB) dataset, we aimed to identify the most effective models for accurately recognizing traffic signs.
+In this project, we explored various machine learning and deep learning models for traffic sign detection (TSD) to improve road safety. Using the German Traffic Sign Recognition Benchmark (GTSRB) dataset, we aimed to identify the most effective models for accurately recognizing traffic signs.
 
 Convolutional Neural Networks (CNNs), particularly the VGG16 architecture, demonstrated significant potential. VGG16 achieved the highest accuracy of 96.9%, which can be attributed to its ability to learn complex features directly from images.
 
